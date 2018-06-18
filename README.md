@@ -3,7 +3,7 @@
 
 ### 声明
 
-- 首先，如果您喜欢本游戏，请随手右上角点赞或关注！~非常感谢！
+- 首先，如果您喜欢本游戏，请随手 **右上角点赞或关注！** ~非常感谢！
 - 本目录中存放的是游戏的Web打包，离线游戏下载请移步[Windows版本](https://pan.baidu.com/s/1bIgtWM0fy5NmmVYAh6ax8w)/克隆本目录中的[Web版本](https://github.com/miracleyoo/HCRS-Online/)。
 - 请注意，因为游戏较大，所以在线体验时很可能会出现
   1. “Now Loading”时间较长
