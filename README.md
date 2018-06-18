@@ -3,7 +3,11 @@
 
 ### 声明
 - 本目录中存放的是游戏的Web打包，离线游戏下载请移步[Windows版本](https://pan.baidu.com/s/1bIgtWM0fy5NmmVYAh6ax8w)/克隆本目录中的[Web版本](https://github.com/miracleyoo/HCRS-Online/)。
-- 请注意，因为游戏较大，所以在线体验时很可能会出现“Now Loading”时间较长或是“Failed to load Game Font”问题，请不要着急，请在网速好的地方重新加载一遍即可。如果出现“Your Browser does not support Web Audio API”，请更换浏览器使用。（Safari、Chrome等主流浏览器都提供支持）
+- 请注意，因为游戏较大，所以在线体验时很可能会出现
+  1. “Now Loading”时间较长
+  2. “Failed to load Game Font”
+  3. “cannot read _actorCMData of null”等问题，请不要着急，请在网速好的地方稍等一会儿，重新加载一遍即可。
+- 如果出现“Your Browser does not support Web Audio API”，请更换浏览器使用。（Safari、Chrome等主流浏览器都提供支持）
 - 本游戏制作组织为华中科技大学Dian团队707工作组，总监制、总策划为707组组长张中洋（miracleyoo）。
 - 本游戏的目的是宣传华中科技大学，可以使玩家在游戏过程中熟悉华科的地图，了解华科地标建筑等；但同时，本游戏也兼具强大的可玩性，可供在校同学、毕业校友、以及所有对华科或是本作品有兴趣的同学享用。
 - 本游戏使用的游戏引擎为RPGMaker MV，同时参考了**atelierrgss**制作的部分插件，在此一并表示感谢。
