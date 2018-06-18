@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"animationId":6,"description":"一把利剑。有了它你可以增加10点防御15点攻击。","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"剑","note":"","params":[0,0,15,10,0,0,0,0],"price":200,"wtypeId":2},
-{"id":2,"animationId":6,"description":"一把有点钝的斧头。但是却很结实耐用。\n防御增加25点，攻击增加8点。","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":99,"name":"斧","note":"","params":[0,0,8,25,0,0,0,0],"price":600,"wtypeId":4},
-{"id":3,"animationId":1,"description":"魔法师使用的杖。大幅度提高魔法攻击\n和魔法防御30点。命中率提高25%。","etypeId":1,"traits":[{"code":31,"dataId":3,"value":0},{"code":22,"dataId":0,"value":0.25}],"iconIndex":101,"name":"杖","note":"","params":[0,0,10,0,30,30,0,0],"price":1000,"wtypeId":6},
-{"id":4,"animationId":11,"description":"穿透性优异的弓，提高你的攻击和敏捷度。\n同时，命中率提高20%，但防御减10。","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0.2}],"iconIndex":102,"name":"弓","note":"","params":[0,10,50,-10,0,0,20,0],"price":800,"wtypeId":7}
+{"id":1,"animationId":6,"description":"一把（伪）王者之剑。有了它你可以增加\n10点防御15点攻击。","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"Excalibur","note":"","params":[0,0,15,10,0,0,0,0],"price":200,"wtypeId":2},
+{"id":2,"animationId":6,"description":"一把有点钝的斧头。但是却很结实耐用。\n防御增加25点，攻击增加8点。","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":99,"name":"Axe","note":"","params":[0,0,8,25,0,0,0,0],"price":600,"wtypeId":4},
+{"id":3,"animationId":1,"description":"魔法师使用的杖。大幅度提高魔法攻击\n和魔法防御30点。命中率提高25%。","etypeId":1,"traits":[{"code":31,"dataId":3,"value":0},{"code":22,"dataId":0,"value":0.25}],"iconIndex":101,"name":"魔法棒","note":"","params":[0,0,10,0,30,30,0,0],"price":1000,"wtypeId":6},
+{"id":4,"animationId":11,"description":"穿透性优异的弓，提高你的攻击和敏捷度。\n同时，命中率提高20%，但防御减10。","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0.2}],"iconIndex":102,"name":"弓箭","note":"","params":[0,10,50,-10,0,0,20,0],"price":800,"wtypeId":7}
 ]
