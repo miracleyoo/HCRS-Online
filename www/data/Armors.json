@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"atypeId":5,"description":"结实的小盾。增加防御20点，魔法防御10点。\n回避率提高15%。","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0.15}],"iconIndex":128,"name":"绿霸","note":"","params":[0,0,0,20,0,10,0,0],"price":600},
+{"id":2,"atypeId":1,"description":"一顶绿油油的帽子。有了它你的反击、魔法反射\n都会提高15%，TP回复率会提高25%。","etypeId":3,"traits":[{"code":22,"dataId":6,"value":0.15},{"code":22,"dataId":5,"value":0.15},{"code":23,"dataId":5,"value":1.25}],"iconIndex":130,"name":"原谅帽","note":"","params":[0,0,0,10,0,0,0,0],"price":850},
+{"id":3,"atypeId":1,"description":"可爱的碳纤维洋服。穿上它，你的回避率提高15%，\n防御提高20点。可爱的女孩纸运气都不会差，运气+50%","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0.15},{"code":21,"dataId":7,"value":1.5}],"iconIndex":135,"name":"可爱的洋服","note":"","params":[0,0,0,20,0,0,0,0],"price":300},
+{"id":4,"atypeId":1,"description":"有着神奇力量的宝石打造的戒指。暴击率+20%，\n命中率+10%，魔法反射+10%，攻击速度+10 。","etypeId":5,"traits":[{"code":22,"dataId":2,"value":0.2},{"code":33,"dataId":0,"value":10},{"code":22,"dataId":0,"value":0.1},{"code":22,"dataId":5,"value":0.1}],"iconIndex":145,"name":"宝石戒指","note":"","params":[0,0,0,0,30,20,0,0],"price":1200}
+]
