@@ -1,10 +1,10 @@
-# 华彩人生（华科模拟器）在线版本
+# 华彩人生——华科模拟器
 华彩人生 -- 一款为华科（华中科技大学）量身打造的游戏；一款在华科这片神奇土地上展开的奇幻RPG游戏；一款高仿真的华科模拟器。想要了解华科的同学请务必来玩哦~相信不会让你失望！ 引擎：RPGMaker MV
 
 ### 声明
 
-- 首先，如果您喜欢本游戏，请随手 **右上角点赞或关注！** ~非常感谢！
-- 本目录中存放的是游戏的Web打包，游戏在线体验请走这里[在线游戏](https://miracleyoo.github.io/HCRS-Online/)离线游戏下载请移步[Windows版本](https://pan.baidu.com/s/1YMZMC7-RC8dQWvwbvfjTJQ)/克隆本目录中的[Web版本](https://github.com/miracleyoo/HCRS-Online/archive/master.zip)。
+- 首先，如果您喜欢本游戏，请随手右上角点赞或关注！~
+- 本目录中存放的是工程源文件，**不是打包发布之后的成品游戏** 游戏在线体验请走这里[在线游戏](https://miracleyoo.github.io/HCRS-Online/)成品游戏下载请移步[Windows版本](https://pan.baidu.com/s/1YMZMC7-RC8dQWvwbvfjTJQ)/[Web版本](https://github.com/miracleyoo/HCRS-Online/)。
 - 请注意，因为游戏较大，所以在线体验时很可能会出现
   1. “Now Loading”时间较长
   2. “Failed to load Game Font”
