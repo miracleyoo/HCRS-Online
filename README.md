@@ -4,7 +4,7 @@
 ### 声明
 
 - 首先，如果您喜欢本游戏，请随手右上角点赞或关注！~
-- 本目录中存放的是工程源文件，**不是打包发布之后的成品游戏** 游戏在线体验请走这里[在线游戏](https://miracleyoo.github.io/HCRS-Online/)成品游戏下载请移步[Windows版本](https://pan.baidu.com/s/1YMZMC7-RC8dQWvwbvfjTJQ)/[Web版本](https://github.com/miracleyoo/HCRS-Online/)。
+- 本目录中存放的是工程源文件，**不是打包发布之后的成品游戏** 游戏在线体验请走这里[在线游戏](https://miracleyoo.github.io/HCRS-Online/)成品游戏下载请移步[Windows版本](https://pan.baidu.com/s/1PvnN5rq8ZZQxaPzsCsa6Yg)/[Web版本](https://github.com/miracleyoo/HCRS-Online/)。
 - 请注意，因为游戏较大，所以在线体验时很可能会出现
   1. “Now Loading”时间较长
   2. “Failed to load Game Font”
